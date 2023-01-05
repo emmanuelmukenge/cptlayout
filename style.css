@@ -1,0 +1,21 @@
+.flex-nav{
+    background-color: brown;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    list-style-type: none;
+    margin-top: 7%;
+    margin-bottom: 50px;
+    margin-left: 60px;
+    margin-right: 60px;
+    border-radius: 20px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    
+}
+a:hover{
+    color: black;
+}
